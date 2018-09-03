@@ -1,5 +1,5 @@
 def turn_count(board)
-  board.each if |object|
+  board.each do |object|
   
 end
 
